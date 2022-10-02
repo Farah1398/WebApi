@@ -15,4 +15,4 @@
         public virtual ICollection<Location> Location { get; set; }
     }
 }
-}
+
